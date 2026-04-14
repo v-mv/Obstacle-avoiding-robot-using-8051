@@ -18,7 +18,7 @@
 # Programming Language
 * Embedded C
 
-# Introduction
+# Details
 * The ultrasonic robot vehicle has been arranged to discover the objects in the 
 particular space.
 * If it finds out the object, then the vehicle will diverge from it.
@@ -28,3 +28,6 @@ if any hurdle is present in left or right direction.
 right-side direction with near space, then it diverges to hurdle free path. 
 * Similarly, the self-determining hurdle avoider does if any object is present in 
 left side direction.
+
+# Important
+* This project was made as a part of MSC Physics syllabus.
