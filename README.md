@@ -1,5 +1,4 @@
 # Obstacle-Avoiding-Robot-Using-8051
-# Mohit Vaidya
 
 # Project Description 
 * The obstacle avoiding robot using 8051 is a robotic vehicle that uses ultrasonic sensors to detect obstacles in its path. The system uses an 8051 family microprocessor to achieve this functionality.
